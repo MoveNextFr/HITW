@@ -1,0 +1,46 @@
+html, body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    font-family: arial, serif;
+    overflow: hidden;
+}
+
+.chatbotImage {
+    margin-top: 40px;
+    width: 5vw;
+}
+
+.chatbotOutput {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.audioSpan {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.chatbotInput {
+    margin-top: 10px;
+    width: 55vw;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.submitButton {
+    margin-top: 10px;
+    width: 55vw;
+    padding: 20px;
+    font-size: 25px;
+}
+
+input,
+span,
+img {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
