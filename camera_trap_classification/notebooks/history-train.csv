@@ -1,0 +1,2 @@
+epoch,train_loss,valid_loss,error_rate,f1_score,precision_score,recall_score,time
+42,0.333712,0.327201,0.118448,0.878626,0.877970,0.880443,00:54

@@ -1,0 +1,16 @@
+output
+model
+.idea/
+.dvc/
+data/
+checkpoints/
+models/
+notebooks/**/.ipynb_checkpoints/
+notebooks/**/*.jpg
+**/__pycache__/
+
+suppairb_vision.egg-info/
+
+dist/
+build/
+mlruns/

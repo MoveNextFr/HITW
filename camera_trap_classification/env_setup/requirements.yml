@@ -1,0 +1,20 @@
+name: hiw_img_classification
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9.7
+  - jupyterlab
+  - pip
+  - pip:
+    - --find-links https://download.pytorch.org/whl/cu113/torch_stable.html
+    - torch==1.10.1+cu113
+    - --find-links https://download.pytorch.org/whl/cu113/torch_stable.html
+    - torchvision==0.11.2+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+    - --find https://download.openmmlab.com/mmcv/dist/cu113/torch1.10.0/index.html
+    - mmcv-full==1.3.17
+    - mmdet==2.16.0
+    - fastai==2.6.3
+    - opencv-python==4.6.0.66
+    - jupyter_bokeh
+    - icevision==0.11.0
