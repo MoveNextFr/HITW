@@ -1,8 +1,8 @@
 import glob
-import time
-import uuid
-from gtts import gTTS
 import os
+import uuid
+
+from gtts import gTTS
 
 
 def create_bot_vocal_synthesis(save_folder_path, reply):

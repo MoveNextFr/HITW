@@ -5,7 +5,7 @@ from botVocalSynthesis import create_bot_vocal_synthesis
 
 openai.api_key = os.getenv("API_KEY")
 movebot_start_sequence = "\nMovebot : "
-user_start_sequence = "\nMe : "
+user_start_sequence = "\nMoi : "
 
 
 class ChatbotReply:
