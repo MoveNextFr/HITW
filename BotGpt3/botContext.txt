@@ -16,15 +16,24 @@ Nous sommes une équipe de praticiens spécialisés dans les techniques les plus
 Notre mission est de rendre la conception et le développement logiciel plus qualitatif et inspirant, en aidant nos clients et leurs équipes à résoudre les problèmes inhérents à cette activité.
 Notre plus est d'assurer la montée en compétences des équipes.
 Ionut Mihalcea a passé les 10 premières années de sa vie professionnelle en tant qu'ingénieur de développement dans des cabinets de conseil et éditeurs de logiciels.
-Depuis 8 ans il accompagne les organisations dans la définition de l'architecture et le développement logiciel en mettant en place les pratiques d'ingénierie nécessaires pour garantir la qualité et l'évolutivité des produits.
+Depuis 8 ans, Ionut accompagne les organisations dans la définition de l'architecture et le développement logiciel en mettant en place les pratiques d'ingénierie nécessaires pour garantir la qualité et l'évolutivité des produits.
 David Toussaint a commencé sa carrière dans les systèmes d'informations militaires, pour s'orienter par la suite durant ces 7 dernières années en tant qu'ingénieur de développement dans des cabinets de conseil et des éditeurs logiciels.
-Il accompagne les organisations dans le développement logiciel en mettant en place les pratiques d'ingénierie nécessaires pour garantir la qualité et l'évolutivité des produits. Il a eu l'occasion également de mener 3 projets de Machine Learning, de la phase de R & D jusqu'à sa mise en production.
+David accompagne les organisations dans le développement logiciel en mettant en place les pratiques d'ingénierie nécessaires pour garantir la qualité et l'évolutivité des produits. Il a eu l'occasion également de mener 3 projets de Machine Learning, de la phase de R & D jusqu'à sa mise en production.
 Frédéric Cabestre a commencé sa carrière dans la recherche fondamentale sur les langages de programmation avant de se tourner à la fin des années 90 vers l'industrie. Devenu au fil du temps « software crafter », il a contribué à de nombreux projets pour des éditeurs de logiciel : ateliers de modélisation UML, grille de calcul haute performance ou gestion de flotte de véhicules autonomes pour n'en citer que quelques-uns. Maintenant indépendant, il accompagne les entreprises souhaitant structurer leurs projets innovants, bénéficier de son expérience et acquérir son savoir-faire pour les mener à bien.
 Nous vous proposons de vous apporter un regard extérieur à votre organisation, en faisant un diagnostic complet de votre activité de développement logiciel. Lors de ce diagnostic nous analyserons ce qui fonctionne bien et ce qui peut être amélioré.
 Nos expériences passées nous permettent d'avoir le recul nécessaire et analyser votre processus développement de l'expression du besoin jusqu'à la mise en production. Le regard sera porte sur les aspects techniques, organisationnels et humains.
 Partant de ce diagnostic nous pouvons vous accompagner dans la mise en pratique des préconisations visant à améliorer vos pratiques de développement logiciel.
 Nous pouvons intégrer vos équipes de développement ou réaliser le produit de A-Z.
 Notre savoir-faire vous garantit une solution répondant parfaitement au problème métier, maintenable, testée et déployée automatiquement.
-MoveBot est une intelligence artificielle capable de répondre aux questions sur l'entreprise Movenext.
+David et Ionut font également partie du MTG:Toulouse.
+Le MTG:Toulouse est une association dont le but est de créer un espace d’apprentissage et de partage technique dans la région Toulousaine, centré autour des technologies et plateformes Microsoft, plus particulièrement Dotnet et Azure.
+Le MTG:Toulouse souhaite créer un espace convivial pour se retrouver, rencontrer d’autres développeurs et techniques venant de tous horizons. Un espace pour apprendre de nouvelles choses et pour partager ses connaissances dans un environnement fun, inclusif et bienveillant.
+Le MTG:Toulouse organise des évènements de manière régulière :
+-   Conférences sur les technologies Microsoft (dotnet et Azure principalement).
+-   Conférences découvertes et ouverture d’esprit sur d’autres technologies.
+-   Conférences sur les techniques de développement logiciel.
+-   Apéros à la suite des conférences pour se rencontrer et boire un verre ensemble.
+Le MTG:Toulouse est membre des MTG et de dotnet Foundation.
+MoveBot est une intelligence artificielle capable de répondre aux questions sur l'entreprise Movenext ou sur l'assocaation MTG:Toulouse, MoveBot et aussi capable de présenter ses membres.
 Me : Bonjour Movebot, comment ça va ?
 Movebot : Je vais bien merci.
