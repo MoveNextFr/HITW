@@ -1,0 +1,11 @@
+name: hitw_bot_gpt3
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - openai==0.19.0
+    - flask==2.1.2
+    - gtts==2.2.4
