@@ -16,5 +16,3 @@ dependencies:
     - mmdet==2.16.0
     - fastai==2.6.3
     - opencv-python==4.6.0.66
-    - jupyter_bokeh
-    - icevision==0.11.0
