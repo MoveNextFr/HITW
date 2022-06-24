@@ -1,0 +1,11 @@
+name: proto_eqla
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9.7
+  - jupyterlab
+  - pip
+  - pip:
+    - easyocr==1.4.1
+    - opencv-python==4.6.0.66
